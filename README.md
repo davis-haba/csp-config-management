@@ -40,3 +40,4 @@ For more information on Anthos Config Management, please reference the
 
 [1]: https://cloud.google.com/anthos-config-management/
 [2]: https://cloud.google.com/anthos-config-management/docs
+# SOME NEW LINE
