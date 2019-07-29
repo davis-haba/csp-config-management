@@ -1,7 +1,7 @@
 kind: ResourceQuota
 apiVersion: v1
 metadata:
-  name: pod-quota
+  name: davis-quota
 spec:
   hard:
     pods: "10"
