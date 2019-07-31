@@ -1,0 +1,7 @@
+kind: ResourceQuota
+apiVersion: v1
+metadata:
+        name: pet-quota
+spec:
+        hard:
+                pods: 2
