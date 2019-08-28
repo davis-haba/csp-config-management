@@ -4,9 +4,10 @@ kind: SpannerInstance
 metadata:
   labels:
     label-one: "value-one"
-  name: spannerinstance-sample
+    label-new: "value-new"
+  name: spannerinstance-sample-NEW
   namespace: nomos-davishaba
 spec:
-  config: regional-us-west1
-  displayName: Spanner Instance Sample
+  config: us-central1-a
+  displayName: Spanner Instance Sample NEW
   numNodes: 1
