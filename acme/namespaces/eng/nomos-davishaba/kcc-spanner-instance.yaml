@@ -5,7 +5,7 @@ metadata:
   labels:
     label-one: "value-one"
     label-new: "value-new"
-  name: spannerinstance-sample-NEW
+  name: spannerinstance-sample-new
   namespace: nomos-davishaba
 spec:
   config: us-central1-a
