@@ -4,4 +4,4 @@ metadata:
   name: davis-quota
 spec:
   hard:
-    pods: "10"
+    pods: "30"
