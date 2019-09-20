@@ -4,5 +4,4 @@ metadata:
   name: pod-boi
 spec:
   containers:
-    - name: hello-world-test
       image: gcr.io/google-samples/hello-app:2.0

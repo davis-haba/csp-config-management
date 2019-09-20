@@ -4,5 +4,4 @@ metadata:
   name: pod-gurl
 spec:
   containers:
-    - name: hello-world-test2
       image: gcr.io/google-samples/hello-app:2.0
