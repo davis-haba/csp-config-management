@@ -11,7 +11,7 @@ metadata:
     operator.istio.io/managed: Reconcile
     operator.istio.io/version: 1.4.0
     release: istio
-  name: ingress-service
+  name: ingress-service-test123
 spec:
   ports:
   - name: status-port-ingress-service
